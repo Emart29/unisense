@@ -530,14 +530,14 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - ✅ PWA support
 - ✅ Property-based testing
 
-### Phase 2 (Q2 2024)
+### Phase 2 (Q1-Q2 2026)
 - [ ] Online payment integration (Paystack/Flutterwave)
 - [ ] Student self-service portal
 - [ ] Timetable automation
 - [ ] Enhanced AI models
 - [ ] Mobile apps (iOS/Android)
 
-### Phase 3 (Q3-Q4 2024)
+### Phase 3 (Q3-Q4 2026)
 - [ ] Hostel management
 - [ ] Research & grants tracking
 - [ ] Multi-campus support
