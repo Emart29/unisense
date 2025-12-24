@@ -200,7 +200,7 @@ UniSense follows a microservices architecture with four main services:
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/unisense.git
+   git clone https://github.com/Emart29/unisense.git
    cd unisense
    ```
 
@@ -518,8 +518,8 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 ## 📞 Support
 
 - **Documentation**: [docs.unisense.com](https://docs.unisense.com) (coming soon)
-- **Issues**: [GitHub Issues](https://github.com/yourusername/unisense/issues)
-- **Discussions**: [GitHub Discussions](https://github.com/yourusername/unisense/discussions)
+- **Issues**: [GitHub Issues](https://github.com/Emart29/unisense/issues)
+- **Discussions**: [GitHub Discussions](https://github.com/Emart29/unisense/discussions)
 
 ## 🗺️ Roadmap
 
@@ -543,6 +543,15 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - [ ] Multi-campus support
 - [ ] Ministry reporting APIs
 - [ ] Advanced analytics dashboard
+
+---
+
+## 👨‍💻 Author
+
+**Emmanuel Nwanguma**
+
+- GitHub: [@Emart29](https://github.com/Emart29)
+- LinkedIn: [Emmanuel Nwanguma](https://www.linkedin.com/in/nwangumaemmanuel)
 
 ---
 
