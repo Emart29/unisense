@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+sqlalchemy
+pydantic
+pydantic-settings
+redis
+httpx
+python-dotenv
+
+# Testing dependencies
+pytest
+pytest-asyncio
+hypothesis
